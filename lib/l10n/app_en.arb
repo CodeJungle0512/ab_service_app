@@ -1,0 +1,15 @@
+{
+    "loginTitle": "Log In",
+    "enterEmail": "Enter your email",
+    "enterPassword": "Enter your password.",
+    "confirmPassword": "Confirm your Password",
+    "loginButton": "Log in",
+    "noneAccount": "Don't have an account?",
+    "signup": "Sign Up",
+    "verifyEmailTitle": "Verification Email Sent",
+    "verifyEmailContent": "A verification email has been sent to {email}. Please check your email and verify your account.",
+    "ok": "OK",
+    "haveAccount": "I already have an account",
+    "emailScreenTitle": "Email Verification",
+    "sendVerification": "Send Email Verification"
+}

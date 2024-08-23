@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "407983801241",
+    "project_id": "abserviceapp-abapp",
+    "storage_bucket": "abserviceapp-abapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407983801241:android:426edafd70d648bc6ac908",
+        "android_client_info": {
+          "package_name": "tech.alphablue.abserviceapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoeSzTcRZV1jF17YU4G3WC2q5bObtsfuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
